@@ -2,6 +2,10 @@
 	font-family: 'Limelight', cursive;
 }
 
+form {
+	margin-bottom: 100px;
+}
+
 body {
 	background-image: url("../images/triangles.png");
 }
@@ -10,10 +14,11 @@ h2, h5 {
 	font-family: 'Poiret One', cursive;
 }
 
-p {
+p, label {
 	font-family: 'Mallanna', sans-serif;
 }
 
 footer {
-	margin-top: 350px
-} 
+	margin-top: 300px;
+}
+
