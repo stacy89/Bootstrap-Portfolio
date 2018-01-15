@@ -1,0 +1,19 @@
+.nameHeader {
+	font-family: 'Limelight', cursive;
+}
+
+body {
+	background-image: url("../images/triangles.png");
+}
+
+h2, h5 {
+	font-family: 'Poiret One', cursive;
+}
+
+p {
+	font-family: 'Mallanna', sans-serif;
+}
+
+footer {
+	margin-top: 350px
+} 
