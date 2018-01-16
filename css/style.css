@@ -2,13 +2,14 @@
 	font-family: 'Limelight', cursive;
 }
 
-<<<<<<< HEAD
+.about {
+	margin-bottom: 100px;
+}
+
 form {
 	margin-bottom: 100px;
 }
 
-=======
->>>>>>> master
 body {
 	background-image: url("../images/triangles.png");
 }
@@ -17,20 +18,10 @@ h2, h5 {
 	font-family: 'Poiret One', cursive;
 }
 
-<<<<<<< HEAD
 p, label {
-=======
-p {
->>>>>>> master
 	font-family: 'Mallanna', sans-serif;
 }
 
 footer {
-<<<<<<< HEAD
 	margin-top: 300px;
 }
-
-=======
-	margin-top: 350px
-} 
->>>>>>> master
